@@ -1,0 +1,36 @@
+
+# Library Management System
+
+## Project Overview
+This project is a Python-based Library Management System using Object-Oriented Programming (OOP).
+
+## Features
+- Add and display books
+- Register and display members
+- Borrow and return books
+- Track book due dates
+- Check overdue books
+- Save and load data using JSON
+- Menu-driven interface
+
+## Technologies Used
+- Python 3
+- Object-Oriented Programming
+- Classes and Objects
+- JSON
+- Date and Time module
+
+## Project Structure
+- library_system/book.py
+- library_system/member.py
+- library_system/library.py
+- library_system/main.py
+- library_system/library_data.json
+
+## How to Run
+Open a terminal inside the library_system folder and run:
+
+python main.py
+
+## Author
+Kajal Kalawat
